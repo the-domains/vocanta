@@ -1,7 +1,7 @@
 name: Vocanta
 favicon: null
-layout_spectrum: 0.6402636233251542
-typography_spectrum: 0.5904812840744853
+layout_spectrum: 0.2706
+typography_spectrum: 0.89271
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#e32c3b'
+    - '#606060'
+    - '#000000'
+    - '#ffca27'
+    - '#2eb21a'
   brandStrength: 0.8251492185518146
   lightness: 0.8432770604267716
   saturation: 0.4302730215713382
