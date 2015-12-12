@@ -1,0 +1,28 @@
+name: Vocanta
+favicon: null
+layout_spectrum: 0.6402636233251542
+typography_spectrum: 0.5904812840744853
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8251492185518146
+  lightness: 0.8432770604267716
+  saturation: 0.4302730215713382
+  rhythmicContrast: 0.5101301718968898
+purpose: []
